@@ -1,0 +1,5 @@
+{
+  "name": "TFI GO Replica",
+  "description": "A simulation of the TFI GO mobile ticketing app featuring route 115 selection and manual time manipulation tools.",
+  "requestFramePermissions": []
+}
